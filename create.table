@@ -1,0 +1,7 @@
+CREATE TABLE posts (
+  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(20),
+  url VARCHAR(200),
+  cfurl VARCHAR(200),
+  caption VARCHAR(500)
+) ENGINE = InnoDB;
