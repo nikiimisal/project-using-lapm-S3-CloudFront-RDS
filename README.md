@@ -1,6 +1,6 @@
 # project-using-lapm-S3-CloudFront-RDS
 
-<h1>QUick To Recap Steps</h1>
+<h1>QUick Recap Steps</h1>
 
 <h3>1. Launch Ec2 ,install nginx ,php ,php-fpm ,php-mysql connector , mariadb and start the services.<br>
    <br>
