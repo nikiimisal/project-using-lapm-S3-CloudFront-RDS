@@ -15,3 +15,10 @@
 5. Create CloudFront distribuction .<br>
    <br>
 6. Install composer in html folder(directory) & install aws sdk in html folder using composer .<br></h3>
+
+<h2>I have uploaded reference video for practice in youtube (do not do any copy right that video ) this vide for just referance for biggeners</h2>
+
+https://www.youtube.com/watch?v=vCWm-EA4of0
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=vCWm-EA4of0)
+
