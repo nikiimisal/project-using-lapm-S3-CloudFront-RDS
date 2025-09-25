@@ -16,7 +16,7 @@
    <br>
 6. Install composer in html folder(directory) & install aws sdk in html folder using composer .<br></h3>
 
-<h2>I have uploaded reference video for practice in youtube (do not do any copy right that video ) this vide for just referance for biggeners</h2>
+<h2>I have uploaded reference video for practice in youtube (do not do any copy right that video ) this video for just referance for biggeners to understanding how this project work's</h2>
 
 https://www.youtube.com/watch?v=vCWm-EA4of0
 
