@@ -7,7 +7,7 @@
 2. Create 'uploads' folder in html directory ,<br>
    assign '777' permission to upload the folder.<br>
    <br>
-3. Create S3 bucket 'ACL enable' type .
+3. Create S3 bucket 'ACL enable' type .<br>
    <br>
 4. Create RDS ,Create database name 'nameDB', <br>
    Create table name 'posts' .<br>
